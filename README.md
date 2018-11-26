@@ -1,2 +1,2 @@
 # combiola
-Computaional Biology and Learning Algorithms
+Computational Biology of Learning Algorithms
